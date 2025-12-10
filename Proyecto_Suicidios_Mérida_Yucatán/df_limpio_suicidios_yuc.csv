@@ -1,0 +1,332 @@
+escolarida,edad,sexo,edo_civil,ocupacion,ocupacion_descripcion
+Primaria incompleta,4063,Hombre,Casado(a),71,Trabajadores en la extracción y la edificación de construcciones
+Secundaria completa,4042,Hombre,No especificado,998,Ocupaciones insuficientemente especificadas
+Primaria completa,4025,Hombre,Soltero(a),71,Trabajadores en la extracción y la edificación de construcciones
+Preparatoria o bachillerato completa,4023,Hombre,Union libre,998,Ocupaciones insuficientemente especificadas
+Primaria completa,4039,Hombre,Separado(a),110,No trabaja
+Preparatoria o bachillerato incompleta,4029,Mujer,Union libre,110,No trabaja
+No especificado,4034,Hombre,No especificado,999,No especificada
+No especificado,4020,Hombre,No especificado,999,No especificada
+No especificado,4042,Hombre,No especificado,999,No especificada
+Secundaria completa,4041,Hombre,Soltero(a),53,Trabajadores en servicios de protección y vigilancia
+Preparatoria o bachillerato incompleta,4030,Hombre,Union libre,93,"Ayudantes de conductores de transporte, conductores de transporte de tracción humana y animal y cargadores"
+Primaria incompleta,4031,Hombre,Soltero(a),71,Trabajadores en la extracción y la edificación de construcciones
+Preparatoria o bachillerato completa,4047,Hombre,Casado(a),998,Ocupaciones insuficientemente especificadas
+Secundaria completa,4041,Hombre,Soltero(a),110,No trabaja
+Primaria completa,4061,Hombre,Casado(a),83,Conductores de transporte y de maquinaria móvil
+Secundaria completa,4039,Hombre,Soltero(a),61,Trabajadores en actividades agrícolas y ganaderas
+Secundaria completa,4037,Hombre,Casado(a),998,Ocupaciones insuficientemente especificadas
+Secundaria completa,4027,Hombre,Soltero(a),110,No trabaja
+Primaria incompleta,4041,Hombre,Soltero(a),998,Ocupaciones insuficientemente especificadas
+Secundaria incompleta,4021,Hombre,Union libre,26,"Auxiliares y técnicos en ciencias exactas, biológicas, ingeniería, informática y en telecomunicaciones"
+Preparatoria o bachillerato completa,4030,Mujer,Casado(a),998,Ocupaciones insuficientemente especificadas
+Primaria completa,4045,Hombre,Soltero(a),73,"Artesanos y trabajadores en la elaboración de productos de madera, papel, textiles y de cuero y piel"
+Primaria incompleta,4024,Hombre,Soltero(a),998,Ocupaciones insuficientemente especificadas
+Primaria completa,4041,Hombre,Casado(a),61,Trabajadores en actividades agrícolas y ganaderas
+Preparatoria o bachillerato incompleta,4047,Mujer,Soltero(a),998,Ocupaciones insuficientemente especificadas
+Primaria completa,4042,Hombre,Soltero(a),62,"Trabajadores en actividades pesqueras, forestales, caza y similares"
+Secundaria incompleta,4025,Hombre,Union libre,998,Ocupaciones insuficientemente especificadas
+Primaria completa,4045,Hombre,Casado(a),998,Ocupaciones insuficientemente especificadas
+Secundaria completa,4056,Hombre,Soltero(a),110,No trabaja
+Secundaria completa,4020,Mujer,Soltero(a),998,Ocupaciones insuficientemente especificadas
+Secundaria completa,4034,Mujer,Union libre,110,No trabaja
+Primaria completa,4034,Mujer,Union libre,110,No trabaja
+Primaria completa,4036,Hombre,Casado(a),75,"Trabajadores en la elaboración y procesamiento de alimentos, bebidas y productos de tabaco"
+Secundaria completa,4032,Mujer,Union libre,110,No trabaja
+Profesional,4061,Hombre,Divorciado(a)/separado(a),42,Empleados de ventas en establecimientos
+Profesional,4050,Hombre,Casado(a),25,"Auxiliares y técnicos en ciencias económico-administrativas, ciencias sociales, humanistas y en artes"
+Secundaria completa,4024,Hombre,Soltero(a),110,No trabaja
+Profesional,4055,Hombre,Casado(a),83,Conductores de transporte y de maquinaria móvil
+Secundaria completa,4037,Hombre,Soltero(a),75,"Trabajadores en la elaboración y procesamiento de alimentos, bebidas y productos de tabaco"
+Secundaria completa,4042,Hombre,Casado(a),26,"Auxiliares y técnicos en ciencias exactas, biológicas, ingeniería, informática y en telecomunicaciones"
+Secundaria completa,4026,Hombre,Soltero(a),998,Ocupaciones insuficientemente especificadas
+No especificado,4079,Hombre,No especificado,999,No especificada
+Secundaria completa,4031,Hombre,Separado(a),41,Comerciantes en establecimientos
+Primaria completa,4039,Hombre,Casado(a),998,Ocupaciones insuficientemente especificadas
+Secundaria completa,4030,Hombre,Union libre,998,Ocupaciones insuficientemente especificadas
+Primaria completa,4030,Hombre,Union libre,71,Trabajadores en la extracción y la edificación de construcciones
+Secundaria completa,4028,Hombre,Soltero(a),61,Trabajadores en actividades agrícolas y ganaderas
+Secundaria completa,4026,Hombre,Casado(a),71,Trabajadores en la extracción y la edificación de construcciones
+Preparatoria o bachillerato completa,4028,Hombre,Soltero(a),110,No trabaja
+Primaria completa,4030,Hombre,Union libre,61,Trabajadores en actividades agrícolas y ganaderas
+Sin escolaridad,4041,Hombre,Soltero(a),71,Trabajadores en la extracción y la edificación de construcciones
+No especificado,4050,Hombre,No especificado,999,No especificada
+Primaria completa,4037,Hombre,Soltero(a),71,Trabajadores en la extracción y la edificación de construcciones
+Primaria completa,4040,Hombre,Soltero(a),51,"Trabajadores en la preparación y servicio de alimentos y bebidas, así como en servicios de esparcimiento y de hotelería"
+Secundaria completa,4035,Hombre,Casado(a),998,Ocupaciones insuficientemente especificadas
+Secundaria incompleta,4033,Hombre,No especificado,26,"Auxiliares y técnicos en ciencias exactas, biológicas, ingeniería, informática y en telecomunicaciones"
+Secundaria completa,4031,Hombre,Soltero(a),110,No trabaja
+Primaria incompleta,4093,Hombre,Viudo(a),41,Comerciantes en establecimientos
+Primaria incompleta,4040,Hombre,Union libre,52,Trabajadores en cuidados personales y del hogar
+Primaria incompleta,4047,Hombre,Casado(a),71,Trabajadores en la extracción y la edificación de construcciones
+Primaria completa,4032,Hombre,Separado(a),61,Trabajadores en actividades agrícolas y ganaderas
+Primaria completa,4039,Hombre,Soltero(a),71,Trabajadores en la extracción y la edificación de construcciones
+Secundaria completa,4045,Hombre,Soltero(a),71,Trabajadores en la extracción y la edificación de construcciones
+Secundaria completa,4024,Hombre,Union libre,71,Trabajadores en la extracción y la edificación de construcciones
+Secundaria completa,4029,Hombre,Casado(a),998,Ocupaciones insuficientemente especificadas
+Secundaria incompleta,4022,Hombre,Union libre,998,Ocupaciones insuficientemente especificadas
+Profesional,4045,Mujer,Union libre,28,"Enfermeras, técnicos en medicina y trabajadores de apoyo en salud"
+Secundaria completa,4029,Hombre,Union libre,71,Trabajadores en la extracción y la edificación de construcciones
+Secundaria completa,4024,Hombre,Soltero(a),998,Ocupaciones insuficientemente especificadas
+Primaria completa,4049,Hombre,Soltero(a),75,"Trabajadores en la elaboración y procesamiento de alimentos, bebidas y productos de tabaco"
+Secundaria completa,4046,Hombre,Casado(a),53,Trabajadores en servicios de protección y vigilancia
+Secundaria completa,4024,Hombre,Union libre,71,Trabajadores en la extracción y la edificación de construcciones
+Primaria completa,4042,Hombre,Casado(a),92,"Trabajadores de apoyo en la minería, construcción e industria"
+Primaria incompleta,4026,Hombre,Soltero(a),71,Trabajadores en la extracción y la edificación de construcciones
+Preparatoria o bachillerato completa,4021,Hombre,Soltero(a),998,Ocupaciones insuficientemente especificadas
+Secundaria completa,4053,Hombre,Union libre,62,"Trabajadores en actividades pesqueras, forestales, caza y similares"
+Secundaria completa,4029,Hombre,Union libre,71,Trabajadores en la extracción y la edificación de construcciones
+Primaria completa,4037,Hombre,Soltero(a),62,"Trabajadores en actividades pesqueras, forestales, caza y similares"
+Secundaria completa,4032,Hombre,Casado(a),26,"Auxiliares y técnicos en ciencias exactas, biológicas, ingeniería, informática y en telecomunicaciones"
+Profesional,4021,Hombre,Soltero(a),998,Ocupaciones insuficientemente especificadas
+Secundaria completa,4039,Hombre,Casado(a),79,Otros trabajadores artesanales no clasificados anteriormente
+Profesional,4064,Mujer,Viudo(a),110,No trabaja
+Secundaria incompleta,4029,Hombre,Union libre,998,Ocupaciones insuficientemente especificadas
+Secundaria incompleta,4013,Hombre,Soltero(a),110,No trabaja
+Secundaria completa,4047,Hombre,Casado(a),110,No trabaja
+Primaria incompleta,4045,Hombre,Soltero(a),73,"Artesanos y trabajadores en la elaboración de productos de madera, papel, textiles y de cuero y piel"
+Primaria completa,4032,Hombre,Soltero(a),71,Trabajadores en la extracción y la edificación de construcciones
+Primaria completa,4057,Hombre,Divorciado(a)/separado(a),41,Comerciantes en establecimientos
+Secundaria completa,4042,Mujer,Union libre,110,No trabaja
+Secundaria completa,4045,Hombre,Casado(a),71,Trabajadores en la extracción y la edificación de construcciones
+Primaria incompleta,4046,Hombre,Union libre,51,"Trabajadores en la preparación y servicio de alimentos y bebidas, así como en servicios de esparcimiento y de hotelería"
+Profesional,4058,Hombre,Divorciado(a)/separado(a),110,No trabaja
+Secundaria completa,4038,Hombre,Casado(a),71,Trabajadores en la extracción y la edificación de construcciones
+Secundaria completa,4023,Hombre,Soltero(a),26,"Auxiliares y técnicos en ciencias exactas, biológicas, ingeniería, informática y en telecomunicaciones"
+Preparatoria o bachillerato completa,4039,Hombre,Soltero(a),79,Otros trabajadores artesanales no clasificados anteriormente
+Secundaria completa,4029,Hombre,Soltero(a),110,No trabaja
+Preparatoria o bachillerato incompleta,4045,Hombre,Casado(a),41,Comerciantes en establecimientos
+Primaria completa,4027,Mujer,Soltero(a),110,No trabaja
+Secundaria completa,4042,Hombre,Casado(a),71,Trabajadores en la extracción y la edificación de construcciones
+Profesional,4052,Hombre,Viudo(a),61,Trabajadores en actividades agrícolas y ganaderas
+No especificado,4062,Mujer,Viudo(a),110,No trabaja
+Secundaria completa,4038,Hombre,Casado(a),998,Ocupaciones insuficientemente especificadas
+Primaria completa,4045,Mujer,Casado(a),110,No trabaja
+Secundaria completa,4040,Hombre,Casado(a),998,Ocupaciones insuficientemente especificadas
+Secundaria completa,4026,Hombre,Soltero(a),71,Trabajadores en la extracción y la edificación de construcciones
+Secundaria completa,4015,Hombre,Soltero(a),110,No trabaja
+Preparatoria o bachillerato incompleta,4057,Hombre,Casado(a),42,Empleados de ventas en establecimientos
+No especificado,4998,Mujer,No especificado,999,No especificada
+No especificado,4065,Mujer,No especificado,999,No especificada
+Secundaria completa,4022,Hombre,Soltero(a),61,Trabajadores en actividades agrícolas y ganaderas
+Secundaria completa,4040,Hombre,Casado(a),998,Ocupaciones insuficientemente especificadas
+Primaria completa,4030,Hombre,Divorciado(a)/separado(a),71,Trabajadores en la extracción y la edificación de construcciones
+Secundaria completa,4028,Hombre,Soltero(a),71,Trabajadores en la extracción y la edificación de construcciones
+Secundaria incompleta,4025,Hombre,Soltero(a),41,Comerciantes en establecimientos
+Secundaria completa,4028,Mujer,Union libre,110,No trabaja
+Profesional,4029,Hombre,Soltero(a),19,"Otros directores, funcionarios, gerentes, coordinadores y jefes de área, no clasificados anteriormente"
+Secundaria completa,4030,Hombre,Soltero(a),998,Ocupaciones insuficientemente especificadas
+Primaria completa,4019,Hombre,Soltero(a),998,Ocupaciones insuficientemente especificadas
+Secundaria incompleta,4029,Hombre,Union libre,71,Trabajadores en la extracción y la edificación de construcciones
+Secundaria completa,4019,Hombre,Soltero(a),110,No trabaja
+No especificado,4027,Mujer,No especificado,999,No especificada
+Secundaria completa,4055,Hombre,Casado(a),998,Ocupaciones insuficientemente especificadas
+No especificado,4040,Hombre,No especificado,999,No especificada
+Primaria incompleta,4031,Hombre,Soltero(a),61,Trabajadores en actividades agrícolas y ganaderas
+Preparatoria o bachillerato incompleta,4018,Hombre,Union libre,92,"Trabajadores de apoyo en la minería, construcción e industria"
+Secundaria incompleta,4032,Hombre,Separado(a),62,"Trabajadores en actividades pesqueras, forestales, caza y similares"
+Primaria incompleta,4026,Hombre,Casado(a),71,Trabajadores en la extracción y la edificación de construcciones
+Secundaria completa,4044,Hombre,No especificado,998,Ocupaciones insuficientemente especificadas
+Primaria completa,4051,Hombre,Casado(a),61,Trabajadores en actividades agrícolas y ganaderas
+Secundaria incompleta,4015,Mujer,Soltero(a),110,No trabaja
+Secundaria completa,4027,Hombre,Soltero(a),998,Ocupaciones insuficientemente especificadas
+Secundaria incompleta,4019,Hombre,Union libre,110,No trabaja
+Sin escolaridad,4032,Hombre,Soltero(a),71,Trabajadores en la extracción y la edificación de construcciones
+Primaria completa,4022,Hombre,Union libre,62,"Trabajadores en actividades pesqueras, forestales, caza y similares"
+Primaria incompleta,4038,Mujer,Casado(a),110,No trabaja
+Primaria completa,4019,Hombre,Soltero(a),71,Trabajadores en la extracción y la edificación de construcciones
+Primaria incompleta,4041,Hombre,Union libre,998,Ocupaciones insuficientemente especificadas
+Secundaria completa,4021,Hombre,Casado(a),998,Ocupaciones insuficientemente especificadas
+Profesional,4053,Hombre,Divorciado(a)/separado(a),998,Ocupaciones insuficientemente especificadas
+Secundaria completa,4031,Mujer,Divorciado(a)/separado(a),110,No trabaja
+Primaria incompleta,4039,Hombre,Soltero(a),71,Trabajadores en la extracción y la edificación de construcciones
+Secundaria completa,4020,Hombre,Union libre,97,"Trabajadores de paquetería, de apoyo para espectáculos, mensajeros y repartidores de mercancías"
+Primaria incompleta,4051,Mujer,Viudo(a),110,No trabaja
+Profesional,4032,Hombre,Soltero(a),24,"Médicos, enfermeras y otros especialistas en salud"
+Secundaria completa,4030,Hombre,Soltero(a),61,Trabajadores en actividades agrícolas y ganaderas
+Secundaria completa,4030,Mujer,Soltero(a),998,Ocupaciones insuficientemente especificadas
+Preparatoria o bachillerato incompleta,4050,Hombre,Casado(a),998,Ocupaciones insuficientemente especificadas
+Primaria completa,4034,Hombre,Separado(a),998,Ocupaciones insuficientemente especificadas
+Secundaria completa,4052,Hombre,Casado(a),83,Conductores de transporte y de maquinaria móvil
+Primaria completa,4028,Hombre,Soltero(a),71,Trabajadores en la extracción y la edificación de construcciones
+Preparatoria o bachillerato completa,4035,Mujer,Union libre,998,Ocupaciones insuficientemente especificadas
+Preparatoria o bachillerato completa,4073,Hombre,Casado(a),110,No trabaja
+Secundaria completa,4032,Mujer,Union libre,110,No trabaja
+Secundaria completa,4028,Hombre,Union libre,110,No trabaja
+Profesional,4024,Mujer,Casado(a),110,No trabaja
+Primaria incompleta,4041,Hombre,Soltero(a),71,Trabajadores en la extracción y la edificación de construcciones
+Secundaria incompleta,4036,Hombre,Soltero(a),53,Trabajadores en servicios de protección y vigilancia
+Sin escolaridad,4035,Hombre,Soltero(a),61,Trabajadores en actividades agrícolas y ganaderas
+Preparatoria o bachillerato completa,4023,Mujer,Soltero(a),110,No trabaja
+Preparatoria o bachillerato completa,4036,Hombre,Casado(a),998,Ocupaciones insuficientemente especificadas
+Primaria incompleta,4043,Hombre,Separado(a),72,Artesanos y trabajadores en el tratamiento y elaboración de productos de metal
+Sin escolaridad,4096,Hombre,Union libre,61,Trabajadores en actividades agrícolas y ganaderas
+Primaria incompleta,4022,Hombre,Soltero(a),52,Trabajadores en cuidados personales y del hogar
+Primaria completa,4033,Hombre,Union libre,71,Trabajadores en la extracción y la edificación de construcciones
+Primaria completa,4037,Mujer,Soltero(a),110,No trabaja
+Secundaria completa,4022,Hombre,Union libre,71,Trabajadores en la extracción y la edificación de construcciones
+Primaria completa,4036,Hombre,Soltero(a),41,Comerciantes en establecimientos
+Secundaria incompleta,4012,Hombre,Soltero(a),110,No trabaja
+Primaria incompleta,4044,Hombre,Union libre,61,Trabajadores en actividades agrícolas y ganaderas
+Preparatoria o bachillerato incompleta,4016,Hombre,Soltero(a),110,No trabaja
+Primaria incompleta,4036,Hombre,Soltero(a),110,No trabaja
+Secundaria incompleta,4013,Mujer,Soltero(a),110,No trabaja
+Preparatoria o bachillerato completa,4058,Hombre,No especificado,110,No trabaja
+Preparatoria o bachillerato completa,4025,Hombre,Casado(a),998,Ocupaciones insuficientemente especificadas
+Primaria incompleta,4011,Mujer,No aplica menores 12 años,110,No trabaja
+Primaria completa,4038,Hombre,Soltero(a),71,Trabajadores en la extracción y la edificación de construcciones
+Profesional,4038,Hombre,Union libre,97,"Trabajadores de paquetería, de apoyo para espectáculos, mensajeros y repartidores de mercancías"
+Preparatoria o bachillerato completa,4062,Hombre,Casado(a),110,No trabaja
+Primaria incompleta,4079,Hombre,Casado(a),73,"Artesanos y trabajadores en la elaboración de productos de madera, papel, textiles y de cuero y piel"
+Secundaria incompleta,4021,Hombre,No especificado,71,Trabajadores en la extracción y la edificación de construcciones
+Secundaria completa,4060,Hombre,Casado(a),998,Ocupaciones insuficientemente especificadas
+Secundaria completa,4030,Hombre,Soltero(a),71,Trabajadores en la extracción y la edificación de construcciones
+Secundaria completa,4028,Hombre,Soltero(a),51,"Trabajadores en la preparación y servicio de alimentos y bebidas, así como en servicios de esparcimiento y de hotelería"
+Preparatoria o bachillerato completa,4055,Hombre,Soltero(a),61,Trabajadores en actividades agrícolas y ganaderas
+Secundaria completa,4039,Hombre,Soltero(a),71,Trabajadores en la extracción y la edificación de construcciones
+Preparatoria o bachillerato completa,4033,Hombre,Soltero(a),72,Artesanos y trabajadores en el tratamiento y elaboración de productos de metal
+Primaria incompleta,4030,Hombre,Union libre,83,Conductores de transporte y de maquinaria móvil
+Primaria incompleta,4048,Hombre,Soltero(a),61,Trabajadores en actividades agrícolas y ganaderas
+Preparatoria o bachillerato completa,4024,Hombre,Union libre,41,Comerciantes en establecimientos
+Secundaria completa,4021,Hombre,Soltero(a),61,Trabajadores en actividades agrícolas y ganaderas
+Profesional,4025,Hombre,Casado(a),23,Profesores y especialistas en docencia
+Preparatoria o bachillerato completa,4025,Hombre,Union libre,71,Trabajadores en la extracción y la edificación de construcciones
+Secundaria completa,4027,Hombre,Union libre,72,Artesanos y trabajadores en el tratamiento y elaboración de productos de metal
+Primaria incompleta,4034,Mujer,Casado(a),998,Ocupaciones insuficientemente especificadas
+Secundaria incompleta,4012,Mujer,Soltero(a),110,No trabaja
+Primaria completa,4029,Hombre,Union libre,998,Ocupaciones insuficientemente especificadas
+Preparatoria o bachillerato completa,4044,Hombre,Casado(a),998,Ocupaciones insuficientemente especificadas
+Sin escolaridad,4052,Mujer,Soltero(a),110,No trabaja
+Primaria completa,4016,Hombre,Soltero(a),73,"Artesanos y trabajadores en la elaboración de productos de madera, papel, textiles y de cuero y piel"
+Secundaria completa,4032,Hombre,Soltero(a),998,Ocupaciones insuficientemente especificadas
+Primaria completa,4055,Hombre,Soltero(a),998,Ocupaciones insuficientemente especificadas
+Primaria completa,4011,Hombre,No aplica menores 12 años,110,No trabaja
+Primaria completa,4038,Hombre,Soltero(a),75,"Trabajadores en la elaboración y procesamiento de alimentos, bebidas y productos de tabaco"
+Profesional,4069,Hombre,Casado(a),998,Ocupaciones insuficientemente especificadas
+Sin escolaridad,4028,Hombre,Soltero(a),110,No trabaja
+Secundaria incompleta,4015,Mujer,Soltero(a),110,No trabaja
+Preparatoria o bachillerato completa,4033,Hombre,Soltero(a),96,"Trabajadores domésticos, de limpieza, planchadores y otros trabajadores de limpieza"
+Secundaria completa,4062,Hombre,No especificado,998,Ocupaciones insuficientemente especificadas
+Primaria completa,4026,Hombre,Union libre,71,Trabajadores en la extracción y la edificación de construcciones
+Profesional,4037,Hombre,Soltero(a),110,No trabaja
+Primaria completa,4032,Hombre,Soltero(a),71,Trabajadores en la extracción y la edificación de construcciones
+Profesional,4020,Mujer,Soltero(a),998,Ocupaciones insuficientemente especificadas
+Secundaria completa,4047,Hombre,Casado(a),998,Ocupaciones insuficientemente especificadas
+Primaria incompleta,4043,Hombre,Union libre,998,Ocupaciones insuficientemente especificadas
+Primaria completa,4026,Hombre,Soltero(a),71,Trabajadores en la extracción y la edificación de construcciones
+Profesional,4029,Mujer,Soltero(a),998,Ocupaciones insuficientemente especificadas
+Secundaria completa,4028,Hombre,Union libre,998,Ocupaciones insuficientemente especificadas
+Secundaria completa,4033,Hombre,Union libre,61,Trabajadores en actividades agrícolas y ganaderas
+Preparatoria o bachillerato incompleta,4027,Hombre,Union libre,998,Ocupaciones insuficientemente especificadas
+Secundaria completa,4037,Hombre,Soltero(a),71,Trabajadores en la extracción y la edificación de construcciones
+Primaria completa,4046,Hombre,Casado(a),71,Trabajadores en la extracción y la edificación de construcciones
+Secundaria completa,4031,Hombre,Casado(a),83,Conductores de transporte y de maquinaria móvil
+Primaria incompleta,4027,Hombre,Casado(a),72,Artesanos y trabajadores en el tratamiento y elaboración de productos de metal
+Profesional,4037,Hombre,Casado(a),21,"Profesionistas en ciencias económico-administrativas, ciencias sociales, humanistas y en artes"
+Primaria incompleta,4026,Hombre,Separado(a),71,Trabajadores en la extracción y la edificación de construcciones
+Preparatoria o bachillerato completa,4028,Hombre,Soltero(a),51,"Trabajadores en la preparación y servicio de alimentos y bebidas, así como en servicios de esparcimiento y de hotelería"
+Preparatoria o bachillerato incompleta,4035,Hombre,Casado(a),72,Artesanos y trabajadores en el tratamiento y elaboración de productos de metal
+Primaria completa,4036,Hombre,Union libre,71,Trabajadores en la extracción y la edificación de construcciones
+Primaria completa,4025,Hombre,Soltero(a),998,Ocupaciones insuficientemente especificadas
+Primaria incompleta,4076,Hombre,Casado(a),73,"Artesanos y trabajadores en la elaboración de productos de madera, papel, textiles y de cuero y piel"
+Secundaria incompleta,4049,Hombre,Soltero(a),71,Trabajadores en la extracción y la edificación de construcciones
+Secundaria completa,4018,Hombre,Soltero(a),998,Ocupaciones insuficientemente especificadas
+Profesional,4036,Mujer,Soltero(a),24,"Médicos, enfermeras y otros especialistas en salud"
+Primaria completa,4064,Hombre,No especificado,110,No trabaja
+Primaria completa,4042,Hombre,Union libre,998,Ocupaciones insuficientemente especificadas
+Primaria incompleta,4062,Mujer,Soltero(a),110,No trabaja
+Secundaria completa,4019,Mujer,Union libre,110,No trabaja
+Preparatoria o bachillerato incompleta,4027,Hombre,Casado(a),998,Ocupaciones insuficientemente especificadas
+Primaria completa,4053,Hombre,Separado(a),998,Ocupaciones insuficientemente especificadas
+Secundaria incompleta,4040,Hombre,Casado(a),998,Ocupaciones insuficientemente especificadas
+Primaria completa,4053,Hombre,Casado(a),72,Artesanos y trabajadores en el tratamiento y elaboración de productos de metal
+Secundaria completa,4025,Hombre,Soltero(a),79,Otros trabajadores artesanales no clasificados anteriormente
+Secundaria completa,4061,Hombre,Casado(a),110,No trabaja
+Sin escolaridad,4046,Hombre,Soltero(a),75,"Trabajadores en la elaboración y procesamiento de alimentos, bebidas y productos de tabaco"
+Sin escolaridad,4049,Mujer,Casado(a),110,No trabaja
+Profesional,4035,Hombre,Union libre,79,Otros trabajadores artesanales no clasificados anteriormente
+Secundaria incompleta,4035,Hombre,Casado(a),71,Trabajadores en la extracción y la edificación de construcciones
+Primaria completa,4031,Hombre,Union libre,61,Trabajadores en actividades agrícolas y ganaderas
+Secundaria incompleta,4035,Hombre,Casado(a),83,Conductores de transporte y de maquinaria móvil
+Primaria completa,4020,Hombre,Soltero(a),53,Trabajadores en servicios de protección y vigilancia
+Secundaria completa,4025,Hombre,Union libre,71,Trabajadores en la extracción y la edificación de construcciones
+Primaria completa,4043,Hombre,Soltero(a),73,"Artesanos y trabajadores en la elaboración de productos de madera, papel, textiles y de cuero y piel"
+Preparatoria o bachillerato incompleta,4018,Hombre,Soltero(a),83,Conductores de transporte y de maquinaria móvil
+Primaria incompleta,4051,Hombre,Soltero(a),52,Trabajadores en cuidados personales y del hogar
+Primaria completa,4049,Hombre,Soltero(a),71,Trabajadores en la extracción y la edificación de construcciones
+Secundaria completa,4047,Hombre,Casado(a),110,No trabaja
+Primaria incompleta,4011,Hombre,No aplica menores 12 años,110,No trabaja
+Profesional,4043,Hombre,Casado(a),26,"Auxiliares y técnicos en ciencias exactas, biológicas, ingeniería, informática y en telecomunicaciones"
+Profesional,4050,Mujer,Viudo(a),998,Ocupaciones insuficientemente especificadas
+Secundaria incompleta,4038,Hombre,Casado(a),110,No trabaja
+Preparatoria o bachillerato incompleta,4047,Hombre,Casado(a),110,No trabaja
+Secundaria incompleta,4013,Mujer,Soltero(a),110,No trabaja
+Secundaria incompleta,4039,Hombre,Soltero(a),71,Trabajadores en la extracción y la edificación de construcciones
+Secundaria completa,4026,Hombre,Union libre,71,Trabajadores en la extracción y la edificación de construcciones
+Sin escolaridad,4064,Mujer,Soltero(a),110,No trabaja
+Preparatoria o bachillerato completa,4020,Mujer,Union libre,110,No trabaja
+Primaria incompleta,4043,Hombre,Soltero(a),71,Trabajadores en la extracción y la edificación de construcciones
+Primaria completa,4026,Hombre,Soltero(a),79,Otros trabajadores artesanales no clasificados anteriormente
+Secundaria completa,4041,Hombre,Casado(a),71,Trabajadores en la extracción y la edificación de construcciones
+Primaria incompleta,4048,Hombre,Casado(a),71,Trabajadores en la extracción y la edificación de construcciones
+Primaria completa,4015,Hombre,Soltero(a),110,No trabaja
+Primaria incompleta,4024,Hombre,Soltero(a),71,Trabajadores en la extracción y la edificación de construcciones
+Secundaria completa,4018,Hombre,Soltero(a),998,Ocupaciones insuficientemente especificadas
+Primaria completa,4028,Hombre,Union libre,71,Trabajadores en la extracción y la edificación de construcciones
+Secundaria completa,4031,Mujer,Casado(a),110,No trabaja
+Profesional,4021,Mujer,Separado(a),110,No trabaja
+Preparatoria o bachillerato incompleta,4028,Hombre,Soltero(a),998,Ocupaciones insuficientemente especificadas
+Primaria completa,4051,Hombre,Casado(a),79,Otros trabajadores artesanales no clasificados anteriormente
+Primaria completa,4032,Hombre,Union libre,71,Trabajadores en la extracción y la edificación de construcciones
+Secundaria completa,4037,Hombre,Soltero(a),52,Trabajadores en cuidados personales y del hogar
+Secundaria incompleta,4027,Hombre,Union libre,998,Ocupaciones insuficientemente especificadas
+Secundaria completa,4038,Hombre,Soltero(a),110,No trabaja
+Secundaria completa,4034,Hombre,Casado(a),41,Comerciantes en establecimientos
+Primaria completa,4050,Hombre,Soltero(a),998,Ocupaciones insuficientemente especificadas
+Secundaria incompleta,4019,Hombre,Soltero(a),83,Conductores de transporte y de maquinaria móvil
+Profesional,4024,Hombre,Soltero(a),998,Ocupaciones insuficientemente especificadas
+Secundaria completa,4026,Hombre,Soltero(a),71,Trabajadores en la extracción y la edificación de construcciones
+Secundaria incompleta,4025,Hombre,Soltero(a),71,Trabajadores en la extracción y la edificación de construcciones
+Preparatoria o bachillerato incompleta,4019,Mujer,Soltero(a),110,No trabaja
+Secundaria completa,4026,Hombre,Soltero(a),72,Artesanos y trabajadores en el tratamiento y elaboración de productos de metal
+Secundaria completa,4049,Hombre,Union libre,61,Trabajadores en actividades agrícolas y ganaderas
+Primaria completa,4044,Hombre,Separado(a),71,Trabajadores en la extracción y la edificación de construcciones
+Preparatoria o bachillerato incompleta,4031,Hombre,Divorciado(a)/separado(a),79,Otros trabajadores artesanales no clasificados anteriormente
+Secundaria completa,4042,Hombre,No especificado,71,Trabajadores en la extracción y la edificación de construcciones
+Secundaria completa,4046,Hombre,Soltero(a),998,Ocupaciones insuficientemente especificadas
+Profesional,4034,Hombre,Casado(a),110,No trabaja
+Secundaria completa,4027,Hombre,Soltero(a),26,"Auxiliares y técnicos en ciencias exactas, biológicas, ingeniería, informática y en telecomunicaciones"
+Preparatoria o bachillerato completa,4040,Hombre,Casado(a),83,Conductores de transporte y de maquinaria móvil
+Secundaria incompleta,4030,Hombre,Soltero(a),71,Trabajadores en la extracción y la edificación de construcciones
+Profesional,4058,Hombre,Union libre,21,"Profesionistas en ciencias económico-administrativas, ciencias sociales, humanistas y en artes"
+Secundaria completa,4028,Hombre,Casado(a),41,Comerciantes en establecimientos
+Secundaria completa,4034,Hombre,Soltero(a),71,Trabajadores en la extracción y la edificación de construcciones
+Secundaria completa,4027,Hombre,Casado(a),62,"Trabajadores en actividades pesqueras, forestales, caza y similares"
+Primaria incompleta,4040,Hombre,Union libre,62,"Trabajadores en actividades pesqueras, forestales, caza y similares"
+Secundaria completa,4034,Mujer,Union libre,39,"Otros trabajadores auxiliares en actividades administrativas, no clasificados anteriormente"
+Primaria incompleta,4082,Hombre,Viudo(a),110,No trabaja
+Profesional,4048,Hombre,Casado(a),21,"Profesionistas en ciencias económico-administrativas, ciencias sociales, humanistas y en artes"
+Secundaria completa,4032,Hombre,Union libre,79,Otros trabajadores artesanales no clasificados anteriormente
+Primaria incompleta,4069,Hombre,Viudo(a),110,No trabaja
+Preparatoria o bachillerato incompleta,4020,Hombre,Soltero(a),62,"Trabajadores en actividades pesqueras, forestales, caza y similares"
+Primaria completa,4050,Hombre,Union libre,71,Trabajadores en la extracción y la edificación de construcciones
+Profesional,4021,Hombre,Soltero(a),110,No trabaja
+Primaria incompleta,4083,Hombre,Casado(a),110,No trabaja
+Secundaria completa,4022,Hombre,Soltero(a),71,Trabajadores en la extracción y la edificación de construcciones
+Preparatoria o bachillerato completa,4021,Hombre,Soltero(a),54,"Trabajadores de la Armada, Ejército y Fuerza Aérea"
+Preparatoria o bachillerato incompleta,4031,Hombre,Soltero(a),998,Ocupaciones insuficientemente especificadas
+Preparatoria o bachillerato completa,4041,Hombre,Union libre,998,Ocupaciones insuficientemente especificadas
+Secundaria completa,4039,Hombre,Casado(a),998,Ocupaciones insuficientemente especificadas
+Primaria incompleta,4087,Hombre,Casado(a),110,No trabaja
+Secundaria incompleta,4023,Hombre,Soltero(a),71,Trabajadores en la extracción y la edificación de construcciones
+Secundaria incompleta,4027,Mujer,Union libre,110,No trabaja
+Primaria incompleta,4024,Mujer,Casado(a),110,No trabaja
+Primaria completa,4039,Hombre,Casado(a),71,Trabajadores en la extracción y la edificación de construcciones
+Preparatoria o bachillerato incompleta,4016,Hombre,Union libre,71,Trabajadores en la extracción y la edificación de construcciones
+Preparatoria o bachillerato incompleta,4041,Hombre,Soltero(a),41,Comerciantes en establecimientos
+Secundaria incompleta,4052,Mujer,Casado(a),998,Ocupaciones insuficientemente especificadas
+Profesional,4029,Hombre,Union libre,29,Otros profesionistas y técnicos no clasificados anteriormente
+Profesional,4021,Hombre,Union libre,110,No trabaja
+Sin escolaridad,4033,Hombre,Soltero(a),62,"Trabajadores en actividades pesqueras, forestales, caza y similares"
+Secundaria completa,4024,Hombre,No especificado,110,No trabaja
+Primaria completa,4043,Hombre,Casado(a),71,Trabajadores en la extracción y la edificación de construcciones
